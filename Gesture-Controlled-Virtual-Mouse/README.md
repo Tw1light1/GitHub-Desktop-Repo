@@ -1,4 +1,3 @@
-Exact Text for Your README.md File
 # Gesture-Controlled Virtual Mouse 🎯  
 
 ## 🚀 Overview  
@@ -18,13 +17,23 @@ This project is a **gesture-controlled virtual mouse**, designed to enable intui
 
 - Install dependencies:
 pip install -r requirements.txt
+- 
+
 - Run the application:
 python main.py
-🎮 UsageSimply move your hand in front of the webcam, and the AI will track movements to control the cursor!🔧 CustomizationI have integrated adjustable sensitivity and gesture calibration, allowing users to tweak tracking speed and click detection through config.py.🤝 Contributions & My Development NotesThis project has been carefully refined to improve responsiveness and usability. My main areas of focus were:
+
+🎮 Usage
+Simply move your hand in front of the webcam, and the AI will track movements to control the cursor!
+
+🔧 CustomizationI have integrated adjustable sensitivity and gesture calibration, allowing users to tweak tracking speed and click detection through config.py.
+
+🤝 Contributions & My Development NotesThis project has been carefully refined to improve responsiveness and usability. My main areas of focus were:
 ✅ Optimizing gesture recognition for smoother tracking.
 ✅ Enhancing click accuracy to prevent false detections.
-✅ Refactoring the code for better readability and modular structure.Future Improvements (Planned Additions)I am working on integrating:
-🚀 Voice command support alongside gesture recognition.
-🚀 Multi-hand tracking to support more advanced gestures.📌 LicenseMIT License – Free to use and modify.
----
+✅ Refactoring the code for better readability and modular structure.
 
+Future Improvements (Planned Additions)I am working on integrating:
+🚀 Voice command support alongside gesture recognition.
+🚀 Multi-hand tracking to support more advanced gestures.
+
+📌 LicenseMIT License – Free to use and modify.

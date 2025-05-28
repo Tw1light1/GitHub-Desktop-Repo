@@ -28,12 +28,3 @@ python main.py
 🚀 Multi-hand tracking to support more advanced gestures.📌 LicenseMIT License – Free to use and modify.
 ---
 
-### **How to Add This to Your Repo**
-✅ Go to your **GitHub repository**.  
-✅ Click on the `README.md` file and select **Edit**.  
-✅ **Delete the old content** and **paste the new text** above.  
-✅ Click **"Commit changes"** to save it.  
-
-🚀 Now, your repo looks **fully original and professional**!  
-Would you like me to help add **screenshots or extra details**? 😊  
-
